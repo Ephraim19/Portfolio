@@ -1,7 +1,7 @@
 # Portfolio
 #### My personal portfolio, 3rd December, 2021
 #### By Ephraim
-## DEscription
+## Description
 This is my own personal portfolio where everybody on the web can get to know more about me
 ## Setup/Installation requirements
 * git clone https://github.com/Ephraim19/Portfolio.git
