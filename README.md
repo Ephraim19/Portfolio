@@ -4,8 +4,8 @@
 ## DEscription
 This is my own personal portfolio where everybody on the web can get to know more about me
 ## Setup/Installation requirements
-* git clone 
-open the index.html file on your browser
+* git clone https://github.com/Ephraim19/Portfolio.git
+* open the index.html file on your browser
 ## Technologies used
 Html
 Css
