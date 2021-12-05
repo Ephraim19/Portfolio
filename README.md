@@ -12,3 +12,6 @@ Css
 git
 ## Support and contact details
 machayoephraim@gmail.com
+##Licence
+MIT licence
+Copyright (c) 2021 Ephraim Machayo Mokamba
