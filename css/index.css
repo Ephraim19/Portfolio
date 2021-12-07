@@ -15,7 +15,14 @@ h2 {
     margin-top: 5px;
 }
 
+
+
 .margin {
+    background-color: rgb(215, 243, 235);
+}
+
+.margin1 {
+    background-color: white;
     margin-left: 10%;
     margin-right: 10%;
 }
@@ -44,14 +51,3 @@ img {
 }
 
 
-.body1 {
-    background: 	#F5FFFA;
-    color: black;
-    padding: 40px;
-  }
-  
-  .body2 {
-    background: #FFFFFF;
-    padding: 20px;
-    font-size: 17px;
-  }
