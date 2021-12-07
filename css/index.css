@@ -8,17 +8,21 @@
   font-family: sofia;
 }
 
+h3 {
+    text-align: center;
+    font-weight: bolder;
+    color: coral;
+    padding: 5px;
+}
+
 h2 {
     text-align: center;
     font-weight: bolder;
     color: coral;
-    margin-top: 5px;
 }
 
-
-
 .margin {
-    background-color: rgb(215, 243, 235);
+    background-color: rgb(223, 236, 233);
 }
 
 .margin1 {
@@ -27,11 +31,12 @@ h2 {
     margin-right: 10%;
 }
 
-h4 {
+h5 {
     text-align: center;
     font-weight: bolder;
     color: coral;
-    margin-top: 5px;
+    
+    padding: 1%;
 }
 
 img {
@@ -48,6 +53,10 @@ img {
     color: cornsilk;
     padding: 5px;
     font-weight: 900;
+}
+
+p {
+    padding: 1px;
 }
 
 
